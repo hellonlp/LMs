@@ -9,7 +9,7 @@
 |:-----------------------:|:------------:|:-----------:|
 | BERT-wwm-ext, Chinese | [TensorFlow](https://drive.google.com/open?id=1buMLEjdtrXE2c4G1rpsNGWEx7lUQ0RHi), [Pytorch](https://drive.google.com/open?id=1iNeYFhCBJWeUsIlnW_2K6SMwXkM4gLb_) | |
 | BERT-wwm, Chinese | [TensorFlow](https://drive.google.com/open?id=1RoTQsXp2hkQ1gSRVylRIJfQxJUgkfJMW), [Pytorch](https://drive.google.com/open?id=1AQitrjbvCWc51SYiLN-cJq4e0WiNN4KY) | |
-| BERT-base<sup>Google</sup>, Chinese | [TensorFlow](https://storage.googleapis.com/bert_models/2018_11_03/chinese_L-12_H-768_A-12.zip), [Pytorch]() | |
+| BERT-base<sup>Google</sup>, Chinese | [TensorFlow](https://storage.googleapis.com/bert_models/2018_11_03/chinese_L-12_H-768_A-12.zip) | |
 
 </br>
 
