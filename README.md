@@ -16,7 +16,10 @@
 ### ALBERT
 |          Model          |  Google Drive | 百度网盘|
 |:-----------------------:|:------------:|:-----------:|
-| ALBERT-small | | |
-| ALBERT-base | | |
-| ALBERT-large | | |
-| ALBERT-xlarge | | |
+| albert_tiny_zh_google | [TensorFlow](https://drive.google.com/file/d/1uuZbmjxG47_mONbade07LJQMBlsiaa2A/view?usp=drive_link) | |
+| albert_small_zh_google | [TensorFlow]() | |
+| albert_base_zh_additional_36k_steps | [TensorFlow](https://drive.google.com/file/d/18GXx0nQVBhi3qX_ii4tOgH2hPcJbdxa_/view?usp=drive_link) | |
+| albert_large_zh | [TensorFlow](https://drive.google.com/file/d/1rwJX_Z6hvhkP_0jEzTGsoa5NQrieuxRj/view?usp=drive_link) | |
+| albert_xlarge_zh_177k | [TensorFlow](https://drive.google.com/file/d/1lB_iHNpaNALJUz9-DcuwuuCDc4Po2rBQ/view?usp=drive_link) | |
+| albert_xlarge_zh_183k | [TensorFlow](https://drive.google.com/file/d/1nO6GwDDaQiji0TMeveQArLAjfWZsUMgs/view?usp=drive_link) | |
+
