@@ -21,7 +21,7 @@
 |  RoBERTa-wwm-ext-large, Chinese   | [TensorFlow](https://drive.google.com/open?id=1dtad0FFzG11CBsawu8hvwwzU2R0FDI94), [Pytorch](https://drive.google.com/open?id=1-2vEZfIFCdM1-vJ3GD6DlSyKT4eVXMKq)| - |
 |  RoBERTa-zh-base, Chinese   | [TensorFlow](https://drive.google.com/open?id=1ykENKV7dIFAqRRQbZIh0mSb7Vjc2MeFA), [Pytorch](https://drive.google.com/open?id=1H6f4tYlGXgug1DdhYzQVBuwIGAkAflwB) |  -|
 |  RoBERTa-zh-large, Chinese   | [TensorFlow](https://drive.google.com/open?id=1W3WgPJWGVKlU9wpUYsdZuurAIFKvrl_Y), [Pytorch](https://drive.google.com/open?id=1yK_P8VhWZtdgzaG0gJ3zUGOKWODitKXZ) |  -|
-
+|  RoBERTa-zh-xlarge, Chinese   | [Pytorch](https://drive.google.com/file/d/1hKnGD_BUe_2r0ggyviU9B0TIMTOAzZvP/view?usp=drive_link) |  -|
 </br>
 
 ### ALBERT
