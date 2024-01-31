@@ -33,4 +33,4 @@
 | albert_large_zh | [TensorFlow](https://drive.google.com/file/d/1rwJX_Z6hvhkP_0jEzTGsoa5NQrieuxRj/view?usp=drive_link) | |
 | albert_xlarge_zh_177k | [TensorFlow](https://drive.google.com/file/d/1lB_iHNpaNALJUz9-DcuwuuCDc4Po2rBQ/view?usp=drive_link) | |
 | albert_xlarge_zh_183k | [TensorFlow](https://drive.google.com/file/d/1nO6GwDDaQiji0TMeveQArLAjfWZsUMgs/view?usp=drive_link) | |
-| albert_xxlarge | [TensorFlow](https://drive.google.com/file/d/1a5LNK21Ax3nhjomBxKT-_olvSLDuOfU9/view?usp=drive_link) | |
+| albert_xxlarge_zh | [TensorFlow](https://drive.google.com/file/d/1a5LNK21Ax3nhjomBxKT-_olvSLDuOfU9/view?usp=drive_link) | |
